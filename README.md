@@ -5,7 +5,7 @@
 
 ## Course: AT00CK36-3001 Implementing IoT Pipeline
 
-## Author
+## Author 👷
 - [Khoi Do](https://github.com/khoidm2004)
 
 ## Programming Language
