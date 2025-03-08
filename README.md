@@ -17,7 +17,7 @@
 git clone https://github.com/khoidm2004/Principal-Component-Analysis.git
 ```
 
-2. Open terminal with:
+2. Open terminal in VS Code with:
 ```Visual Code
 Ctrl + Shift + V
 ```
